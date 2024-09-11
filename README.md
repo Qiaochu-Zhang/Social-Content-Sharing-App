@@ -42,11 +42,13 @@ https://github.com/firebase/firebase-ios-sdk.git
 1. Clone the repository.
  ```bash
  git clone https://github.com/Qiaochu-Zhang/Social-Content-Sharing-App.git
+ ```bash
 
 2. Open the project in Xcode.
  ```bash
 cd Social-Content-Sharing-App
 open MiniSocialContentSharing.xcodeproj
+ ```bash
 
 3. Run the app on your iOS simulator or device.
 
